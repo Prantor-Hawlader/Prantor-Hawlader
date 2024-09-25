@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%235000CE&size=35&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Always+Love+To+Explore+New+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%235000CE&size=35&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Love+To+Explore+New+Things!" />
 </p>
 
 ### 👋 About Me
