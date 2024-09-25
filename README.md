@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=25&center=true&vCenter=true&lines=FULL+Stack+Developer;Always+Love+To+Explore+New+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%235000CE&size=25&center=true&vCenter=true&lines=FULL+Stack+Developer;Always+Love+To+Explore+New+Things!" />
 </p>
 
 ### 👋 About Me
@@ -34,12 +34,10 @@ I believe that hard work beats talent. I am a full-stack web developer and I lov
   <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js"/>
   <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/>
   <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js"/>
-  <img src="https://img.icons8.com/color/48/000000/prisma.png" alt="Prisma"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
   <img src="https://img.icons8.com/color/48/000000/mongoose.png" alt="Mongoose"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/zustand.png" alt="Zustand"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
@@ -48,8 +46,13 @@ I believe that hard work beats talent. I am a full-stack web developer and I lov
 
 
 ## 🔥 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prantor-Hawlader&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prantor-Hawlader&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prantor-Hawlader&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prantor-Hawlader&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="GitHub Stats" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prantor-Hawlader&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="160px"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prantor-Hawlader&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="160px"/>
+</p>
+
