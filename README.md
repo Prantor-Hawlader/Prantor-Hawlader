@@ -4,8 +4,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%235000CE&size=35&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Love+To+Explore+New+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=5000CE&width=435&lines=Full+Stack+Web+Developer;Passionate+Coder+%26+Learner;Love+to+Explore+New+Technologies!;Bringing+Ideas+to+Life+with+Code" />
 </p>
+
 
 ### 👋 About Me
 I believe that hard work beats talent. I am a full-stack web developer and I love how collaboration and knowledge sharing happen through open source.
