@@ -1,71 +1,38 @@
-<p align="center">
-  Hi there! I'm <strong>Prantor Hawlader</strong>, a Full Stack Developer who loves to explore new technologies and solve real-world problems with code.
-</p>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prantor Hawlader
+========================================================================================================================================
 
+Full Stack React Developer
+--------------------------
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=5000CE&width=670&lines=Full+Stack+Web+Developer;Passionate+Coder+%26+Learner;Love+to+Explore+New+Technologies!" />
-</p>
+I have studied computer science at the World University of Bangladesh. I have been working as a full-stack developer for quite some time now. I believe I am a very ambitious person who loves to build websites. My journey has included working with both front-end and back-end development, where I learned about different technologies, databases, and frameworks. I watch online tutorials and read articles and blogs to keep myself updated. I love how collaboration and knowledge sharing happened through open source.
 
-
-<p align="center">
-  🚀 Currently working on web applications using modern JavaScript frameworks and backend technologies.<br>
-  🌱 Always learning and growing, with a focus on Next.js, TypeScript, and cloud solutions.<br>
-  🎯 Open to collaboration and passionate about contributing to open-source projects.
-</p>
-
-<h3 align="center">📂 Latest Projects</h3>
-
-<ul>
-  <li><strong>🔗 Personal Collection Management System</strong> — A web app to create and manage collections with customizable fields. Built using Next.js, Prisma, and PostgreSQL.</li>
-  <li><strong>🔗 AI-Powered Missing Persons Finder</strong> — Leveraging AI for image recognition to help locate missing people. Features user registration, real-time stats, and an admin dashboard.</li>
-  <li><strong>🔗 CRM & Jira Integration</strong> — A seamless integration of Salesforce and Jira into a web application for user and ticket management via REST APIs.</li>
-</ul>
-
----
-
-<h3 align="center">💡 A Little About Me</h3>
-
-<ul>
-  <li>💼 Software Development Intern at Itransition.</li>
-  <li>🌍 Experienced in integrating external services like Salesforce and Jira into web platforms.</li>
-  <li>📘 Interested in AI, cloud computing, and building scalable web systems.</li>
-  <li>💬 Feel free to reach out for collaborations or discussions on web development, AI, or open-source projects.</li>
-</ul>
-
-
-## 🛠 Technologies & Tools 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
-  <img src="https://img.icons8.com/ultraviolet/48/000000/react.png" alt="React"/>
-  <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/>
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/mongoose.png" alt="Mongoose"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-</p>
-
-<h3 align="center">✨ Let's Connect</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/prantor-hawlader/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/prantor.azijul/">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" />
-  </a>
-
-  
-  <a href="mailto:prantor502@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" />
-  </a>
-  </a>
-</p>
-
-
+*   🌍  I'm based in Dhaka, Bangladesh
+*   🖥️  See my portfolio at [My-Portfolio](http://prantor-portfolio.vercel.app/)
+*   ✉️  You can contact me at [prantor502@gmail.com](mailto:prantor502@gmail.com)
+*   🚀  I'm currently working on [Cyber Security Specialist Portfolio](http://kamroot.com)
+*   🧠  I'm learning Linux and intermediate Python
+*   🤝  I'm open to collaborating on frontend, backend or full stack web application
+*   ⚡  I love to play Cricket, Badminton, Football and of course video game### Skills 
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.github.com/Prantor-Hawlader" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.linkedin.com/in/prantor-hawlader" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/Prantor-Hawlader"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Prantor-Hawlader&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/Prantor-Hawlader" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prantor-Hawlader&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/Prantor-Hawlader/personal-collection-management" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prantor-Hawlader&repo=personal-collection-management&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Prantor-Hawlader/Mychat-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prantor-Hawlader&repo=Mychat-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/Prantor-Hawlader/Cyber-Security-Specialist" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Prantor-Hawlader&repo=Cyber-Security-Specialist&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
