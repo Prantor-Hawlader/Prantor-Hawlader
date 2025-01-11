@@ -10,7 +10,7 @@ I have studied computer science at the World University of Bangladesh. I have be
 * 🖥️  See my portfolio at [My-Portfolio](http://prantor-portfolio.vercel.app/)
 * ✉️  You can contact me at [prantor502@gmail.com](mailto:prantor502@gmail.com)
 * 🚀  I'm currently working on [Cyber Security Specialist Portfolio](http://kamroot.com)
-* 🧠  I'm learning Linux and intermediate Python
+* 🧠  I'm learning Linux and React Native
 * 🤝  I'm open to collaborating on frontend, backend or full stack web application
 * ⚡  I love to play Cricket, Badminton, Football and of course video game
 
