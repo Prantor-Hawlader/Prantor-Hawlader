@@ -3,15 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # Full Stack Software Engineer
 
-Software Engineer with 2+ years of experience building scalable full-stack web applications. Enjoys solving real-world problems and writing clean, maintainable code that makes everyday work easier.
-
-Experience includes working across frontend and backend systems, building APIs, dashboards, and core business features, while collaborating closely with cross-functional teams to deliver reliable software.
-
----
-
-### 🌍 About
-- 📍 Based in Dhaka, Bangladesh  
-- 🎓 B.Sc. in Computer Science & Engineering from World University of Bangladesh  
+Software Engineer with 2+ years of experience building scalable full-stack web applications. Enjoys solving real-world problems and writing clean, maintainable code that makes everyday work easier. Enjoys playing Cricket, Badminton, Football, and video games.
 
 ---
 
@@ -20,20 +12,18 @@ Experience includes working across frontend and backend systems, building APIs, 
 - Building APIs, business logic, and data-driven applications  
 - Writing testable, maintainable code and improving system stability  
 - Working with modern web technologies, containers, and databases  
-
 ---
-
 ### 🚀 Current Focus
 - Strengthening backend engineering skills  
-- Learning more about Microservices and Linux systems
+- Learning more about Microservices, Docker, and Linux systems
 - Exploring scalable architectures and performance optimization  
 
 ---
-
 ### 🤝 Open to Collaboration
 - Full-stack web applications  
 - Backend systems and APIs  
 - Frontend-focused projects with React/Next.js  
+
 
 ---
 
@@ -44,8 +34,6 @@ Experience includes working across frontend and backend systems, building APIs, 
 
 ---
 
-### ⚡ Outside of Coding
-Enjoys playing Cricket, Badminton, Football, and video games.
 
 
 ### Skills
