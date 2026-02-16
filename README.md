@@ -28,7 +28,7 @@ Software Engineer with 2+ years of experience building scalable full-stack web a
 ---
 
 ### 🔗 Links
-- 🖥️ Portfolio: [prantor-portfolio.vercel.app](https://docker-prantor.vercel.app/)
+- 🖥️ Portfolio: [prantor-portfolio.vercel.app](https://prantor.me/)
 - 💼 LinkedIn: [linkedin.com/in/prantor-hawlader](https://www.linkedin.com/in/prantor-hawlader/)
 - 📧 Email: [prantor502@gmail.com](mailto:prantor502@gmail.com)
 
